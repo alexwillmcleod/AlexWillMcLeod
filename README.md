@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AlexWillMcLeod
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Web Apps
-- 📫 How to reach me - alexwillmcleod@gmail.com
+👋 Hi, I’m @AlexWillMcLeod, I'm an Auckland based software engineer, studing Computer Science at Waipapa Taumata Rau - University of Auckland. Check out my portfolio at <a href="https://www.alexwillmcleod.com">alexwillmcleod.com</a> or any of my repos! I have projects in Typescript, Rust and Python with frameworks and libraries such as SolidJS, Vite, React, and Material UI. Let me know if you would like to collaborate on anything!
+
 
 <!---
 AlexWillMcLeod/AlexWillMcLeod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
